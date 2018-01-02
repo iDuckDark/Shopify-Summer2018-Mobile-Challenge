@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopify</string>
+    <string name="product_information_label">Product Information</string>
+    <string name="colour_label">Colour:</string>
+</resources>
